@@ -2,10 +2,6 @@
 title: "Main missions and Side Quests"
 ---
 
-![](banner.png)
-
-<br>
-
 :::: {.columns}
 
 ::: {.column width="45%"}
