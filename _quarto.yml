@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: public
+
+website:
+  title: "Main missions and Side Quests"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: side-missions.qmd
+        text: Side Missions
+      - href: about.qmd
+        text: About
