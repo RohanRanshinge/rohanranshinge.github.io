@@ -6,7 +6,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:contact@rohanranshinge.com
+      href: mailto:rohnshinge@gmail.com
 ---
 
 I am an analytics professional with a passion for building end-to-end data solutions that bridge complex backend engineering with high-level strategic insights. My expertise lies in architecting robust measurement frameworks, automating reporting workflows and driving data integrity to support executive decision-making. 
