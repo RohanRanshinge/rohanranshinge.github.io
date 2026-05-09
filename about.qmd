@@ -23,7 +23,7 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 
 ## Professional Experience
 
-### Google   ![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg){width=80px}
+![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg){width=80px}
 **Marketing Analyst, Ads Marketing Analytics** | *August 2022 - Present*
 
 <div>
@@ -38,10 +38,8 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 
 ---
 
-### The Home Depot
-**Sr. Analyst, Interconnected Merchandising Insights** | *Sept 2019 - Aug 2022*
-::: {layout="[10, 90]"}
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg){width=50px}
+**Sr. Analyst, Interconnected Merchandising Insights** | *Sept 2019 - Aug 2022*
 
 <div>
 * Implemented **Causal Impact algorithms** (Python, R) to identify top subscription items, contributing to **40% YoY growth**.
@@ -62,10 +60,8 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 
 ---
 
-### Accenture
-**Application Development Analyst** | *August 2016 - March 2018*
-::: {layout="[10, 90]"}
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg){width=80px}
+**Application Development Analyst** | *August 2016 - March 2018*
 
 *Developed and maintained enterprise-level applications.*
 :::
@@ -74,9 +70,9 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 
 ## Education
 
-### University of California, Davis
+![](https://upload.wikimedia.org/wikipedia/commons/6/67/UCD_GSM_logo.PNG){width=80px} ### University of California, Davis
 ::: {layout="[10, 90]"}
-![](https://upload.wikimedia.org/wikipedia/commons/a/a3/UC_Davis_logo.svg){width=100px}
+
 
 <div>
 **Master of Science, Business Analytics** | *Sept 2018 - July 2019*
@@ -87,7 +83,7 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 
 ### University of Mumbai
 ::: {layout="[10, 90]"}
-![](https://upload.wikimedia.org/wikipedia/en/3/34/University_of_Mumbai_logo.png){width=50px}
+![](https://upload.wikimedia.org/wikipedia/en/3/34/University_of_Mumbai_logo.png){width=80px}
 
 <div>
 **Bachelor of Engineering, Electronics** | *June 2012 - May 2016*
