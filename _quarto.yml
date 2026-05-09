@@ -12,4 +12,5 @@ website:
         text: About
 format:
   html:
-    theme: cyborg
+    theme: sketchy
+    linestretch: 1.7
