@@ -14,3 +14,66 @@ I am an analytics professional with a passion for building end-to-end data solut
 I have the ability to thrive in a fast-paced, high-volume, and deadline-driven environment with experience in data manipulation and statistical tools such as SQL, R, Python, and Tableau. Being an applied data analyst, I understand the math behind statistical models and work to ensure deliverables are of the highest quality. 
 
 I am driven by complex problem-solving - whether it is debugging a critical datasource error, projecting revenue impacts through sandbox analysis or mentoring peers on SQL and dashboarding best practices. I am constantly expanding my toolkit, recently focusing on GenAI applications and advanced statistical modeling to drive the next generation of analytics.
+
+
+## Professional Experience
+
+### Google
+::: {layout-ncol=2}
+![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg){width=100px}
+
+**Marketing Analyst, Ads Marketing Analytics** *August 2022 - Present | Mountain View, CA*
+:::
+
+* Led the conception, coding, and production launch of **Shadowfax**, an automated email system delivering weekly event performance reports to 600+ PMMs.
+* Spearheaded the end-to-end development of a **Company-Level Dashboard**, managing stakeholders, backend infrastructure, and legal review.
+* Built comprehensive reporting infrastructure and interactive dashboards to empower senior leadership with insights into global event performance.
+* Reduced data processing time by **80%** by creating efficient data pipelines with custom macros for event impact metrics.
+
+---
+
+### The Home Depot
+::: {layout-ncol=2}
+![](https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg){width=60px}
+
+**Sr. Analyst, Interconnected Merchandising Insights** *September 2019 - August 2022 | Atlanta, GA*
+:::
+
+* Implemented **Causal Impact algorithms** (Python, R) to identify top subscription items, contributing to **40% YoY growth**.
+* Created a Tableau dashboard for the Online Pricing team, saving **55 hours of effort per event**.
+* Mentored an intern in developing diagnostic reports for negative margin items, providing actionable recovery solutions.
+
+---
+
+### Institute of Transportation Studies (ITS)
+**Data Analyst** *September 2018 - July 2019 | San Francisco, CA*
+
+* Segmented customers by membership type to identify usage trends using SQL and Tableau.
+* Performed congestion analysis to identify high-potential stations based on demand and utilization.
+
+---
+
+### Accenture
+::: {layout-ncol=2}
+![](https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg){width=100px}
+
+**Application Development Analyst** *August 2016 - March 2018 | Hyderabad, India*
+:::
+
+---
+
+## Education
+
+**University of California, Davis** ::: {layout-ncol=2}
+![](https://upload.wikimedia.org/wikipedia/commons/a/a3/UC_Davis_logo.svg){width=120px}
+
+*MS in Business Analytics (2018 - 2019)* * Awarded the GSM Alumni Association Student Fellowship for leadership.
+* President, Dean’s Student Advisory Council (DSAC).
+:::
+
+**University of Mumbai** ::: {layout-ncol=2}
+![](https://upload.wikimedia.org/wikipedia/en/3/34/University_of_Mumbai_logo.png){width=60px}
+
+*Bachelor of Engineering, Electronics* * Built a prototype eye-controlled wheelchair using Python and Raspberry Pi.
+* President, Student’s Council.
+:::
