@@ -40,7 +40,7 @@ You can check out my current quests below.
 
 ::: {.column width="45%"}
 ### Main Missions
-* [Zero to Hero in Causal Inference](https://causal-inference-qtmh.vercel.app/)
+* [Zero to Hero in Causal Inference](https://rohanranshinge.github.io/causal-inference/)
 :::
 
 ::: {.column width="5%"}
