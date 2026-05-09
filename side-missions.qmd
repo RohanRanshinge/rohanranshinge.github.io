@@ -4,4 +4,36 @@ title: "Side Missions"
 
 Life is a choose-your-own-adventure game. This is a log of my journey, covering everything from the main missions of my professional work to the side quests that keep life interesting.
 
-[Read my latest Side Missions on Substack →](https://rohanranshinge.substack.com/)
+<br>
+### Latest from Substack
+
+<div id="rss-feed">Loading latest side quests...</div>
+
+<script>
+  // Replace YOUR_SUBSTACK_NAME with your actual substack prefix
+  const rssUrl = 'https://rohanranshinge.substack.com/feed';
+  const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
+
+  fetch(apiUrl)
+    .then(response => response.json())
+    .then(data => {
+      const container = document.getElementById('rss-feed');
+      container.innerHTML = '';
+      // This grabs your 5 most recent posts
+      data.items.slice(0, 5).forEach(item => {
+        // This strips HTML out of the summary for a clean preview
+        const cleanSnippet = item.description.replace(/<[^>]*>?/gm, '').substring(0, 180);
+        
+        container.innerHTML += `
+          <div style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #eee;">
+            <h4 style="margin-bottom: 5px;"><a href="${item.link}" target="_blank" style="text-decoration: none;">${item.title}</a></h4>
+            <p style="font-size: 0.85em; color: gray; margin-bottom: 8px;">${item.pubDate.split(' ')[0]}</p>
+            <p style="margin-bottom: 0;">${cleanSnippet}...</p>
+          </div>
+        `;
+      });
+    })
+    .catch(error => {
+      document.getElementById('rss-feed').innerHTML = 'Error loading feed. <a href="https://rohanranshinge.substack.com">Visit my Substack directly</a>.';
+    });
+</script>
