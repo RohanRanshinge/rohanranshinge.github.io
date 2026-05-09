@@ -2,10 +2,6 @@
 title: "Main missions and Side Quests"
 ---
 
-![](banner.png)
-
-<br>
-
 :::: {.columns}
 
 ::: {.column width="45%"}
@@ -16,42 +12,43 @@ title: "Main missions and Side Quests"
 :::
 
 ::: {.column width="50%"}
+
+
+
 # It’s all a game…
 
 I view life as one big choose-your-own-adventure game where every turn reveals infinite possibilities.
 
-At any given moment, I am either locked into my **main missions**—honing my technical skills and advancing in my career—or embarking on **side quests** to explore my broader passions. These side missions are where I dive into learning the guitar, sketching, or wandering through the world of esoteric concepts.
+At any given moment, I am either locked into my main missions—honing my technical skills and advancing in my career—or embarking on side quests to explore my broader passions. These side missions are where I dive into learning the guitar, sketching, or wandering through the world of esoteric concepts.
 
 Thinking about life this way keeps every day exciting. I get to decide when it’s time to progress the storyline and when it’s time to explore a new path just to see what perks it might offer.
 
 You can check out my current quests below.
+
 :::
 
 ::::
 
 <br>
-
-```{=html}
-<link href="[https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap](https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap)" rel="stylesheet">
-<div style="text-align: center; margin-top: 30px;">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<div style="text-align: center;">
   <h2 style="font-family: 'Press Start 2P', cursive; font-size: 1.2em;">Press Start to Play</h2>
 </div>
+<br>
 
 :::: {.columns}
 
 ::: {.column width="45%"}
-
-Main Missions
-[Zero to Hero in Causal Inference](https://rohanranshinge.github.io/causal-inference/)
+### Main Missions
+* [Zero to Hero in Causal Inference →](https://rohanranshinge.github.io/causal-inference/)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="50%"}
-
-Side Missions
-[Read my latest Side Missions →](rohanranshinge.substack.com)
+### Side Missions
+* [Read my latest Side Missions →](side-missions.qmd)
 :::
 
 ::::
