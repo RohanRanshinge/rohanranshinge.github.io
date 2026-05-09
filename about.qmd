@@ -34,7 +34,7 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 * Created a program-level dashboard to evaluate program spend and attendance, facilitating performance benchmarking across programs.
 * Identified and recommended solutions to fix segmentation issues, improving accuracy by **25%**.
 </div>
-:::
+
 
 ---
 
@@ -48,7 +48,6 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 * Launched an innovative **Newness report** to track new assortment sales across categories.
 * Conducted SQL training sessions for the Assortment Growth team to improve production-level code quality.
 </div>
-:::
 
 ---
 
@@ -64,30 +63,27 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 **Application Development Analyst** | *August 2016 - March 2018*
 
 *Developed and maintained enterprise-level applications.*
-:::
 
 ---
 
 ## Education
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/67/UCD_GSM_logo.PNG){width=80px} ### University of California, Davis
-::: {layout="[10, 90]"}
-
+![](https://upload.wikimedia.org/wikipedia/commons/6/67/UCD_GSM_logo.PNG){width=80px} **University of California, Davis**
 
 <div>
 **Master of Science, Business Analytics** | *Sept 2018 - July 2019*
+
 * Awarded the GSM Alumni Association Student Fellowship Award for outstanding leadership.
 * President, Dean’s Student Advisory Council (DSAC).
 </div>
-:::
 
 ### University of Mumbai
-::: {layout="[10, 90]"}
 ![](https://upload.wikimedia.org/wikipedia/en/3/34/University_of_Mumbai_logo.png){width=80px}
 
 <div>
 **Bachelor of Engineering, Electronics** | *June 2012 - May 2016*
+
 * Built a prototype eye-controlled wheelchair on Python using a Raspberry Pi microprocessor and a USB camera.
 * President, Student’s Council.
 </div>
-:::
+
