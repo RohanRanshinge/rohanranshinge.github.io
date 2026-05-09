@@ -5,12 +5,11 @@ title: "Side Missions"
 Life is a choose-your-own-adventure game. This is a log of my journey, covering everything from the main missions of my professional work to the side quests that keep life interesting.
 
 <br>
-### Latest from Substack
+# Latest from Substack
 
 <div id="rss-feed">Loading latest side quests...</div>
 
 <script>
-  // Replace YOUR_SUBSTACK_NAME with your actual substack prefix
   const rssUrl = 'https://rohanranshinge.substack.com/feed';
   const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
 
@@ -37,3 +36,16 @@ Life is a choose-your-own-adventure game. This is a log of my journey, covering 
       document.getElementById('rss-feed').innerHTML = 'Error loading feed. <a href="https://rohanranshinge.substack.com">Visit my Substack directly</a>.';
     });
 </script>
+
+<br><br>
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <iframe 
+    src="https://rohanranshinge.substack.com/embed" 
+    width="480" 
+    height="320" 
+    style="border: 1px solid #EEE; background: transparent;" 
+    frameborder="0" 
+    scrolling="no">
+  </iframe>
+</div>
