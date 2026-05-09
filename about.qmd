@@ -1,63 +1,99 @@
 ---
 title: "About me"
-image: RohanContra.jpg
-about:
-  template: solana  # Switching to solana allows content to flow better below the header
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:rohnshinge@gmail.com
 ---
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](RohanContra.jpg){.rounded}
+
+### Contact
+{{< iconify envelope >}} [Email](mailto:rohnshinge@gmail.com)
+:::
+
+::: {.g-col-12 .g-col-md-8}
 I am an analytics professional with a passion for building end-to-end data solutions that bridge complex backend engineering with high-level strategic insights. My expertise lies in architecting robust measurement frameworks, automating reporting workflows and driving data integrity to support executive decision-making. 
 
-I have the ability to thrive in a fast-paced, high-volume, and deadline-driven environment with experience in data manipulation and statistical tools such as SQL, R, Python, and Tableau. Being an applied data analyst, I understand the math behind statistical models and work to ensure deliverables are of the highest quality. 
+I am driven by complex problem-solving - whether it is debugging a critical datasource error, projecting revenue impacts through sandbox analysis or mentoring peers on SQL and dashboarding best practices.
+:::
 
-I am driven by complex problem-solving - whether it is debugging a critical datasource error, projecting revenue impacts through sandbox analysis or mentoring peers on SQL and dashboarding best practices. I am constantly expanding my toolkit, recently focusing on GenAI applications and advanced statistical modeling to drive the next generation of analytics.
+:::
 
 ---
 
 ## Professional Experience
 
 ### Google
-::: {layout="[15, 85]"}
-![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg){width=100px}
+**Marketing Analyst, Ads Marketing Analytics** | *August 2022 - Present*
+::: {layout="[10, 90]"}
+![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg){width=80px}
 
 <div>
-**Marketing Analyst, Ads Marketing Analytics** *August 2022 - Present | Mountain View, CA*
-
 * Led the conception, coding, and production launch of **Shadowfax**, an automated email system delivering weekly event performance reports to 600+ PMMs.
 * Spearheaded the end-to-end development of a **Company-Level Dashboard**, managing stakeholders, backend infrastructure, and legal review.
 * Built comprehensive reporting infrastructure and interactive dashboards to empower senior leadership with insights into global event performance.
 * Reduced data processing time by **80%** by creating efficient data pipelines with custom macros for event impact metrics.
+* Created a program-level dashboard to evaluate program spend and attendance, facilitating performance benchmarking across programs.
+* Identified and recommended solutions to fix segmentation issues, improving accuracy by **25%**.
 </div>
 :::
 
 ---
 
 ### The Home Depot
-::: {layout="[15, 85]"}
-![](https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg){width=70px}
+**Sr. Analyst, Interconnected Merchandising Insights** | *Sept 2019 - Aug 2022*
+::: {layout="[10, 90]"}
+![](https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg){width=50px}
 
 <div>
-**Sr. Analyst, Interconnected Merchandising Insights** *September 2019 - August 2022 | Atlanta, GA*
-
 * Implemented **Causal Impact algorithms** (Python, R) to identify top subscription items, contributing to **40% YoY growth**.
 * Created a Tableau dashboard for the Online Pricing team, saving **55 hours of effort per event**.
-* Mentored an intern in developing diagnostic reports for negative margin items, providing actionable recovery solutions.
+* Mentored an intern in developing diagnostic reports for negative margin items with actionable solutions.
+* Launched an innovative **Newness report** to track new assortment sales across categories.
+* Conducted SQL training sessions for the Assortment Growth team to improve production-level code quality.
 </div>
+:::
+
+---
+
+### Institute of Transportation Studies (ITS)
+**Data Analyst** | *September 2018 - July 2019*
+
+* Segmented customers by membership type to identify usage trends using SQL and Tableau.
+* Performed congestion analysis to identify high-potential stations based on demand and utilization.
+
+---
+
+### Accenture
+**Application Development Analyst** | *August 2016 - March 2018*
+::: {layout="[10, 90]"}
+![](https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg){width=80px}
+
+*Developed and maintained enterprise-level applications.*
 :::
 
 ---
 
 ## Education
 
-**University of California, Davis**
-::: {layout="[15, 85]"}
+### University of California, Davis
+::: {layout="[10, 90]"}
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/UC_Davis_logo.svg){width=100px}
 
 <div>
-*MS in Business Analytics (2018 - 2019)* * Awarded the GSM Alumni Association Student Fellowship for leadership.
+**Master of Science, Business Analytics** | *Sept 2018 - July 2019*
+* Awarded the GSM Alumni Association Student Fellowship Award for outstanding leadership.
 * President, Dean’s Student Advisory Council (DSAC).
+</div>
+:::
+
+### University of Mumbai
+::: {layout="[10, 90]"}
+![](https://upload.wikimedia.org/wikipedia/en/3/34/University_of_Mumbai_logo.png){width=50px}
+
+<div>
+**Bachelor of Engineering, Electronics** | *June 2012 - May 2016*
+* Built a prototype eye-controlled wheelchair on Python using a Raspberry Pi microprocessor and a USB camera.
+* President, Student’s Council.
 </div>
 :::
