@@ -8,7 +8,5 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: side-missions.qmd
-        text: Side Missions
       - href: about.qmd
         text: About
