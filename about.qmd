@@ -8,7 +8,7 @@ title: "About me"
 ![](RohanContra.jpg){.rounded}
 
 ### Contact
-{{< iconify envelope >}} [Email](mailto:rohnshinge@gmail.com)
+📧 [Email](mailto:rohnshinge@gmail.com)
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -23,67 +23,54 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 
 ## Professional Experience
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg){width=80px}
-**Marketing Analyst, Ads Marketing Analytics** | *August 2022 - Present*
-
-<div>
-* Led the conception, coding, and production launch of **Shadowfax**, an automated email system delivering weekly event performance reports to 600+ PMMs.
-* Spearheaded the end-to-end development of a **Company-Level Dashboard**, managing stakeholders, backend infrastructure, and legal review.
-* Built comprehensive reporting infrastructure and interactive dashboards to empower senior leadership with insights into global event performance.
-* Reduced data processing time by **80%** by creating efficient data pipelines with custom macros for event impact metrics.
-* Created a program-level dashboard to evaluate program spend and attendance, facilitating performance benchmarking across programs.
-* Identified and recommended solutions to fix segmentation issues, improving accuracy by **25%**.
+<div style="display: flex; align-items: start; gap: 20px; margin-bottom: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="80">
+  <div>
+    **Marketing Analyst, Ads Marketing Analytics** | *August 2022 - Present*
+    * Led the conception, coding, and production launch of **Shadowfax**, an automated email system delivering weekly event performance reports to 600+ PMMs.
+    * Spearheaded the end-to-end development of a **Company-Level Dashboard**, managing stakeholders, backend infrastructure, and legal review.
+    * Built comprehensive reporting infrastructure and interactive dashboards to empower senior leadership with insights into global event performance.
+    * Reduced data processing time by **80%** by creating efficient data pipelines with custom macros for event impact metrics.
+  </div>
 </div>
 
-
----
-
-![](https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg){width=50px}
-**Sr. Analyst, Interconnected Merchandising Insights** | *Sept 2019 - Aug 2022*
-
-<div>
-* Implemented **Causal Impact algorithms** (Python, R) to identify top subscription items, contributing to **40% YoY growth**.
-* Created a Tableau dashboard for the Online Pricing team, saving **55 hours of effort per event**.
-* Mentored an intern in developing diagnostic reports for negative margin items with actionable solutions.
-* Launched an innovative **Newness report** to track new assortment sales across categories.
-* Conducted SQL training sessions for the Assortment Growth team to improve production-level code quality.
+<div style="display: flex; align-items: start; gap: 20px; margin-bottom: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg" width="50">
+  <div>
+    **Sr. Analyst, Interconnected Merchandising Insights** | *Sept 2019 - Aug 2022*
+    * Implemented **Causal Impact algorithms** (Python, R) to identify top subscription items, contributing to **40% YoY growth**.
+    * Created a Tableau dashboard for the Online Pricing team, saving **55 hours of effort per event**.
+    * Mentored an intern in developing diagnostic reports for negative margin items with actionable solutions.
+    * Launched an innovative **Newness report** to track new assortment sales across categories.
+  </div>
 </div>
 
----
-
-### Institute of Transportation Studies (ITS)
-**Data Analyst** | *September 2018 - July 2019*
-
-* Segmented customers by membership type to identify usage trends using SQL and Tableau.
-* Performed congestion analysis to identify high-potential stations based on demand and utilization.
-
----
-
-![](https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg){width=80px}
-**Application Development Analyst** | *August 2016 - March 2018*
-
-*Developed and maintained enterprise-level applications.*
+<div style="display: flex; align-items: start; gap: 20px; margin-bottom: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" width="80">
+  <div>
+    **Application Development Analyst** | *August 2016 - March 2018*
+    * Developed and maintained enterprise-level applications.
+  </div>
+</div>
 
 ---
 
 ## Education
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/67/UCD_GSM_logo.PNG){width=80px} **University of California, Davis**
-
-<div>
-**Master of Science, Business Analytics** | *Sept 2018 - July 2019*
-
-* Awarded the GSM Alumni Association Student Fellowship Award for outstanding leadership.
-* President, Dean’s Student Advisory Council (DSAC).
+<div style="display: flex; align-items: start; gap: 20px; margin-bottom: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/UCD_GSM_logo.PNG" width="80">
+  <div>
+    **University of California, Davis** *Master of Science, Business Analytics* | *Sept 2018 - July 2019*
+    * Awarded the GSM Alumni Association Student Fellowship Award for outstanding leadership.
+    * President, Dean’s Student Advisory Council (DSAC).
+  </div>
 </div>
 
-### University of Mumbai
-![](https://upload.wikimedia.org/wikipedia/en/3/34/University_of_Mumbai_logo.png){width=80px}
-
-<div>
-**Bachelor of Engineering, Electronics** | *June 2012 - May 2016*
-
-* Built a prototype eye-controlled wheelchair on Python using a Raspberry Pi microprocessor and a USB camera.
-* President, Student’s Council.
+<div style="display: flex; align-items: start; gap: 20px; margin-bottom: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/34/University_of_Mumbai_logo.png" width="80">
+  <div>
+    **University of Mumbai** *Bachelor of Engineering, Electronics* | *June 2012 - May 2016*
+    * Built a prototype eye-controlled wheelchair on Python using a Raspberry Pi microprocessor and a USB camera.
+    * President, Student’s Council.
+  </div>
 </div>
-
