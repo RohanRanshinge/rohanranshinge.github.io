@@ -23,10 +23,8 @@ I am driven by complex problem-solving - whether it is debugging a critical data
 
 ## Professional Experience
 
-### Google
+### Google   ![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg){width=80px}
 **Marketing Analyst, Ads Marketing Analytics** | *August 2022 - Present*
-::: {layout="[10, 90]"}
-![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg){width=80px}
 
 <div>
 * Led the conception, coding, and production launch of **Shadowfax**, an automated email system delivering weekly event performance reports to 600+ PMMs.
