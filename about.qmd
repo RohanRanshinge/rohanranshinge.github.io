@@ -52,7 +52,7 @@ I am driven by complex problem-solving—whether it is debugging a critical data
 
 ## Education
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UCD_GSM_logo.PNG/320px-UCD_GSM_logo.PNG" width="80" style="vertical-align:middle; margin-right:15px;"> University of California, Davis
+### University of California, Davis
 **Master of Science, Business Analytics** | *Sept 2018 - July 2019*
 
 * Awarded the GSM Alumni Association Student Fellowship Award for outstanding leadership.
@@ -60,7 +60,7 @@ I am driven by complex problem-solving—whether it is debugging a critical data
 
 <br>
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/University_of_Mumbai_logo.png/320px-University_of_Mumbai_logo.png" width="60" style="vertical-align:middle; margin-right:15px;"> University of Mumbai
+### University of Mumbai
 **Bachelor of Engineering, Electronics** | *June 2012 - May 2016*
 
 * Built a prototype eye-controlled wheelchair on Python using a Raspberry Pi microprocessor and a USB camera.
