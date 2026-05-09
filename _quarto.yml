@@ -10,3 +10,6 @@ website:
         text: Home
       - href: about.qmd
         text: About
+format:
+  html:
+    theme: sketchy
