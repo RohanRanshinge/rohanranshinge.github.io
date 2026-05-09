@@ -30,8 +30,9 @@ You can check out my current quests below.
 ::::
 
 <br>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 <div style="text-align: center;">
-  <h2>Press Start to Play</h2>
+  <h2 style="font-family: 'Press Start 2P', cursive; font-size: 1.2em;">Press Start to Play</h2>
 </div>
 <br>
 
