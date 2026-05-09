@@ -47,7 +47,7 @@ You can check out my current quests below.
 
 ::: {.column width="50%"}
 ### Side Missions
-* [Read my latest Side Missions on Substack →](https://your-substack-url.substack.com)
+* [Read my latest Side Missions →](side-missions.qmd)
 :::
 
 ::::
