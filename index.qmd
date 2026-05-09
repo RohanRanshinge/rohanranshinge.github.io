@@ -4,7 +4,8 @@ title: "Main missions and Side Quests"
 
 ![](banner.png)
 
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+```{=html}
+<link href="[https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap](https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap)" rel="stylesheet">
 
 <div class="typing-container">
   <div class="static-text">Is life</div>
@@ -84,49 +85,3 @@ title: "Main missions and Side Quests"
     81%, 100% { content: "a simulation?"; }
   }
 </style>
-
-<br>
-
-:::: {.columns}
-
-::: {.column width="45%"}
-![](RohanContra.jpg)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="50%"}
-# It’s all a game…
-
-I view life as one big choose-your-own-adventure game where every turn reveals infinite possibilities.
-
-At any given moment, I am either locked into my **main missions**—honing my technical skills and advancing in my career—or embarking on **side quests** to explore my broader passions.
-
-You can check out my current quests below.
-:::
-
-::::
-
-<br>
-<div style="text-align: center;">
-  <h2 style="font-family: 'Press Start 2P', cursive; font-size: 1.2em;">Press Start to Play</h2>
-</div>
-<br>
-
-:::: {.columns}
-
-::: {.column width="45%"}
-### Main Missions
-* [Zero to Hero in Causal Inference](https://rohanranshinge.github.io/causal-inference/)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="50%"}
-### Side Missions
-* [Read my latest Side Missions →](side-missions.qmd)
-:::
-
-::::
