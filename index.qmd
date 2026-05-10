@@ -48,6 +48,7 @@ You can check out my current quests below.
 
 ::: {.column width="50%"}
 ### Side Missions
+* [Blind Student Aid AI Podcast →](https://rohanranshinge.github.io/blind-student-aid-ai/)
 * [Read my latest Side Missions →](side-missions.qmd)
 :::
 
