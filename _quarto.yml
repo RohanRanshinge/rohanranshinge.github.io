@@ -1,16 +1,25 @@
 project:
   type: website
-  output-dir: public
 
 website:
   title: "Main missions and Side Quests"
-  site-url: "https://rohanranshinge.github.io/"
+  site-url: "https://rohanranshinge.com/"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+    right:
+      - icon: github
+        href: https://github.com/RohanRanshinge
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/rohanranshinge
+        aria-label: LinkedIn
+      - icon: instagram
+        href: https://instagram.com/kingdomofrohan
+        aria-label: Instagram
 
 format:
   html:
