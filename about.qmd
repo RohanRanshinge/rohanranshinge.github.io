@@ -8,7 +8,7 @@ title: "About me"
 ![](RohanContra.jpg){.rounded}
 
 ### Contact
-📧 [Email](mailto:rohnshinge@gmail.com)
+📧 [Email](mailto:contact@rohanranshinge.com)
 :::
 
 ::: {.g-col-12 .g-col-md-8}
